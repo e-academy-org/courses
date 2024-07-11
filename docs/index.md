@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "CommerceSync Docs"
+  name: "Courses"
   text: 
-  tagline: "A projekt dokimentációs oldala"
+  tagline: "Az e-Academy tananyagainak oldala"
   image:
     src: https://raw.githubusercontent.com/CommerceSync-Hub/commerce-sync-docs/main/docs/commercesynclogo.png
     alt: CommerceSync Bundle

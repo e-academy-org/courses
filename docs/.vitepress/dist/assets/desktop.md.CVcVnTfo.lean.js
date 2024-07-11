@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as s,V as l}from"./chunks/framework.CtR6xKeJ.js";const c=JSON.parse('{"title":"Desktop","description":"","frontmatter":{},"headers":[],"relativePath":"desktop.md","filePath":"desktop.md"}'),t={name:"desktop.md"},n=l("",9),k=[n];function r(z,o,i,h,p,m){return s(),a("div",null,k)}const g=e(t,[["render",r]]);export{c as __pageData,g as default};

@@ -12,41 +12,44 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Kezdőlap', link: '/' },
-      { text: 'Dokumentáció', link: '/a-projektrol' }
+      { text: 'Tananyagok', link: '/bevezeto' }
     ],
 
     sidebar: [
       {
-        text: 'A Projekt dokumentációja',
+        text: 'Programozás tananyagok',
         items: [
-          { text: 'Tananyagok', link: '/tananyagok' },
-          { text: 'A fejlesztői csapat', link: '/fejlesztok' },
-          { text: 'Komponensek', link: '/komponensek' },
-          { text: 'Desktop Applikáció', link: '/desktop' },
-          { text: 'WordPress Bővítmény', link: '/plugin' },
-          { text: 'Dokumentáció', link: '/dokumentacio' },
-          { text: 'Installás', link: '/installalas' }
+          { text: 'Bevezető', link: '/bevezeto' },
+          { text: 'HTML', link: '/html' },
+          { text: 'CSS', link: '/css' },
+          { text: 'CSS Keretrendszerek', link: '/css-keretrendszerek' },
+          { text: 'Git & GitHub', link: '/git-github' },
+          { text: 'JavaScript', link: '/javascript' },
+          { text: 'VueJs', link: '/vue-js' },
+          { text: 'MySQL', link: '/mysql' },
+          { text: 'Docker', link: '/docker' },
+          
         ]
         
       },
       {
-        text: 'Fejlesztői naplók',
+        text: 'WordPress tananyagok',
         items: [
-          { text: 'Fejlesztői napló', link: 'fejlesztoi-naplok/fejlesztoi-naplo' },
+          { text: 'WordPress', link: '/wordpress' },
         ]
         
       },
       {
-        text: 'Tesztelési naplók',
+        text: 'SEO tananyagok',
         items: [
-          { text: 'Tesztelési napló', link: 'tesztelesi-naplok/tesztelesi-naplo' },
+          { text: 'SEO', link: '/seo' },
         ]
         
       },
       {
-        text: 'A csomag jövője',
+        text: 'Projekt és Self Management tananyagok',
         items: [
-          { text: 'Fejlesztési lehetőségek', link: 'jovo' },
+          { text: 'Projekt és Self Management', link: 'projekt-es-self-management' },
         
         ]
         

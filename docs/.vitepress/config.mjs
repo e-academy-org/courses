@@ -3,8 +3,8 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/courses/',
-  title: "Courses",
-  description: "A Projektünk dokumentációs oldala",
+  title: "e-Academy Courses",
+  description: "Az e-Academy tananyagainak oldala",
   themeConfig: {
 
     logo: 'commercesynclogo.png',

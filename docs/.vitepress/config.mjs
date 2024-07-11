@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/commerce-sync-docs/',
-  title: "Commerce Sync Docs",
+  base: '/courses/',
+  title: "Courses",
   description: "A Projektünk dokumentációs oldala",
   themeConfig: {
 

@@ -19,7 +19,7 @@ export default defineConfig({
       {
         text: 'A Projekt dokumentációja',
         items: [
-          { text: 'A Projektről', link: '/a-projektrol' },
+          { text: 'Tananyagok', link: '/tananyagok' },
           { text: 'A fejlesztői csapat', link: '/fejlesztok' },
           { text: 'Komponensek', link: '/komponensek' },
           { text: 'Desktop Applikáció', link: '/desktop' },

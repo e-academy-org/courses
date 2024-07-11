@@ -3,25 +3,25 @@
 layout: home
 
 hero:
-  name: "Courses"
+  name: "e-Academy Courses"
   text: 
   tagline: "Az e-Academy tananyagainak oldala"
   image:
-    src: https://raw.githubusercontent.com/CommerceSync-Hub/commerce-sync-docs/main/docs/commercesynclogo.png
-    alt: CommerceSync Bundle
+    src: https://raw.githubusercontent.com/e-academy-org/courses/main/e-academy-logo.png
+    alt: e-Academy Logo
   actions:
     - theme: brand
-      text: Dokumentáció
-      link: /a-projektrol
+      text: Tananyagok
+      link: /tananyagok
     - theme: alt
-      text: Letöltés
+      text: Feladatok
       link: https://github.com/2023e-vp-vizsgaremek/e-commerce
 
 features:
-  - title: ProductBridge
-    details: Desktop App amely egyszerűbbé teszi a termékek feltöltését a WooCommerce alapú Webshopba
-  - title: WooSync
-    details: Bővítmény amely biztosítja a kommunikációt a Desktop App és a Weboldal között
+  - title: Tananyagok fejlesztőknek
+    details: Elméleti tananyagok gyűjteménye, fejlesztők számára
+  - title: Gyakorlati feladatok
+    details: Gyakorlati feladatok fejlesztők számára
 
 ---
 

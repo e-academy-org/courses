@@ -20,8 +20,8 @@ export default defineConfig({
         text: 'Programozás tananyagok',
         items: [
           { text: '1. alkalom: Bevezetés a webfejlesztés világába', link: 'programozas-tananyagok/1-alkalom-bevezetes-a-webfejlesztes-vilagaba.md' },
-          { text: '2. alkalom: HTML alapjai I.', link: 'programozas-tananyagok/2-alkalom-html-alajai-i.md' },
-          { text: 'CSS', link: '/css' },
+          { text: '2. alkalom: HTML alapjai I.', link: 'programozas-tananyagok/2-alkalom-html-alapjai-i.md' },
+          { text: '3. alkalom: HTML alapjai II.', link: 'programozas-tananyagok/3-alkalom-html-alapjai-ii.md' },
           { text: 'CSS Keretrendszerek', link: '/css-keretrendszerek' },
           { text: 'Git & GitHub', link: '/git-github' },
           { text: 'JavaScript', link: '/javascript' },

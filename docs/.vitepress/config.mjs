@@ -41,7 +41,21 @@ export default defineConfig({
       {
         text: 'WordPress tananyagok',
         items: [
-          { text: 'WordPress', link: '/wordpress' },
+          { text: '1. Alkalom: Bevezetés a weboldal készítésbe', link: 'wordpress-tananyagok/1-alkalom-bevezetes-a-weboldal-keszitesbe.md' },
+          { text: '2. Alkalom: WordPress telepítése és alapbeállítások', link: 'wordpress-tananyagok/2-alkalom-wordpress-telepitese-es-alapbeallitasok.md' },
+          { text: '3. Alkalom: WordPress felületének megismerése', link: 'wordpress-tananyagok/3-alkalom-a-wordpress-feluletenek-megismerese.md' },
+          { text: '4. Alkalom: Témák és megjelenés testreszabása', link: 'wordpress-tananyagok/4-alkalom-temak-es-megjelenes-testreszabasa.md' },
+          { text: '5. Alkalom: Bővítmények és funkciók hozzáadása', link: 'wordpress-tananyagok/5-alkalom-bovitmenyek-es-funkciok-hozzaadasa.md' },
+          { text: '6. Alkalom: Tartalomkezelés WordPress-ben', link: 'wordpress-tananyagok/6-alkalom-tartalomkezeles-a-wordpressben.md' },
+          { text: '7. Alkalom: SEO alapok és tartalom optimalizálás', link: 'docs/wordpress-tananyagok/7-alkalom-seo-alapok-es-tartalom-optimalizalas.md' },
+          { text: '1. Alkalom: Bevezetés a weboldal készítésbe', link: 'wordpress-tananyagok/1-alkalom-bevezetes-a-weboldal-keszitesbe.md' },
+          { text: '1. Alkalom: Bevezetés a weboldal készítésbe', link: 'wordpress-tananyagok/1-alkalom-bevezetes-a-weboldal-keszitesbe.md' },
+          { text: '1. Alkalom: Bevezetés a weboldal készítésbe', link: 'wordpress-tananyagok/1-alkalom-bevezetes-a-weboldal-keszitesbe.md' },
+          { text: '1. Alkalom: Bevezetés a weboldal készítésbe', link: 'wordpress-tananyagok/1-alkalom-bevezetes-a-weboldal-keszitesbe.md' },
+          { text: '1. Alkalom: Bevezetés a weboldal készítésbe', link: 'wordpress-tananyagok/1-alkalom-bevezetes-a-weboldal-keszitesbe.md' },
+          { text: '1. Alkalom: Bevezetés a weboldal készítésbe', link: 'wordpress-tananyagok/1-alkalom-bevezetes-a-weboldal-keszitesbe.md' },
+          { text: '1. Alkalom: Bevezetés a weboldal készítésbe', link: 'wordpress-tananyagok/1-alkalom-bevezetes-a-weboldal-keszitesbe.md' },
+          { text: '1. Alkalom: Bevezetés a weboldal készítésbe', link: 'wordpress-tananyagok/1-alkalom-bevezetes-a-weboldal-keszitesbe.md' },
         ]
         
       },
